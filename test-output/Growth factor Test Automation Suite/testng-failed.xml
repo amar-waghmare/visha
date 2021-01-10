@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Growth factor Test Automation Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test cases(failed)">
+    <classes>
+      <class name="com.GF.qa.testcase.SciencePageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="scienceTitleTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.GF.qa.testcase.SciencePageTest -->
+    </classes>
+  </test> <!-- Test cases(failed) -->
+</suite> <!-- Failed suite [Growth factor Test Automation Suite] -->
